@@ -4,6 +4,7 @@
   "description": "Epic CoolBot by Nishant#9999 and MrCrack#6123",
   "main": "index.js",
   "dependencies": {
+    "discord-buttons": "^4.0.0",
     "discord.js": "^12.5.3"
   },
   "devDependencies": {},
