@@ -1,0 +1,26 @@
+{
+  "name": "coolbot",
+  "version": "1.0.0",
+  "description": "Epic CoolBot by Nishant#9999 and MrCrack#6123",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishantMajumdar/coolbot.git"
+  },
+  "keywords": [
+    "epik"
+  ],
+  "author": "MrCrack, Nishant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishantMajumdar/coolbot/issues"
+  },
+  "homepage": "https://github.com/NishantMajumdar/coolbot#readme"
+}
